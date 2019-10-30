@@ -6,6 +6,13 @@ int main(void){
     std::cin>>H;
     std::cout<<"ha ingresado hipotenusa"<<H<<std::endl;
     
+    int O;
+    std::cout<<"Cateto opuesto"<<std::endl;
+    std::cin>>O;
+    std::cout<<"ha ingresado cateto opuesto"<<O<<std::endl;
+    
+   
+    
    
     
     
