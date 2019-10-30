@@ -16,7 +16,13 @@ int main(void){
     std::cin>>A;
     std::cout<<"ha ingresado cateto adyacente"<<A<<std::endl;
     
-    
+    if(H*H==O*O+A*A){
+        std::cout<<"si es triangulo rectangulo"<<std::endl;
+    }
+    else {
+        
+        std::cout<<"no es triangulo rectangulo"<<std::endl;
+    }
   
     
 return 0;
