@@ -12,7 +12,11 @@ int main(void){
     float P;
     P=2*M_PI*N;
     std::cout<<"perimetro es"<<P<<std::endl;
+    float A;
+    A=M_PI*N*N;
+    std::cout<<"área es"<<A<<std::endl;
     return 0;
+    
     
 
 }
