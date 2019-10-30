@@ -11,16 +11,13 @@ int main(void){
     std::cin>>O;
     std::cout<<"ha ingresado cateto opuesto"<<O<<std::endl;
     
-   
-    
-   
-    
-    
- 
+    int A;
+    std::cout<<"Cateto Adyacente"<<std::endl;
+    std::cin>>A;
+    std::cout<<"ha ingresado cateto adyacente"<<A<<std::endl;
     
     
-    
-    
+  
     
 return 0;
     
